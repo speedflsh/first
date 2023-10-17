@@ -1,4 +1,4 @@
 # first
 this is my first git repository
 <br>
-author - anurag patel
+author - anurag pa
